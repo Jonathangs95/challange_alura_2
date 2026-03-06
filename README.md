@@ -275,7 +275,3 @@ telecom-churn-analysis
 └── data/
 
 ---
-
-# 👨‍💻 Autor
-
-Projeto desenvolvido como parte de um desafio de **ETL e Análise de Dados em Python**.
